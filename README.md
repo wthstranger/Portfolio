@@ -6,7 +6,7 @@ A modern, responsive, and interactive portfolio website showcasing my skills, pr
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio:** https://your-portfolio-link.com
+🔗 **Portfolio:** https://gopi-kumar-portfolio-223099289616.asia-southeast1.run.app
 
 ---
 
